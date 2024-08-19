@@ -3,14 +3,13 @@
 ## Warning
 Okay well, first things first. You should be aware that you will receive limited support if you modify your list. I don't have the time or patience to help everyone that does so and encounters issues because of it. Additionally, you must only ask for help in the #Modified-Install channel of my Discord. This is because your issues are low priority due to most probably being caused by what you've done to the list, and not what I've done to the list. I have extensively tested the list and know nearly all the bugs with it. You aren't helping anyone by throwing bugs at me in the normal help channel and misleading me with your modified list. I can help you better if you're honest and I'm aware you are running a modified install. If I find that you're repeatedly asking for help in the normal channel with a modified list, I will simply give you a role that limits your view to only the modified help channel and the News channel.
 
+## Important Tips
+- After adding a mod and loading a save, you're gonna be asked if you wanna load a CURRENT or SAVE mod order. Select CURRENT. Never select SAVE
+- Please don't update mods in the list unless you know what you're doing. Especially armor mods and balancing mods. For example, if you updated Ascension in V4, then everything would become a bullet sponge. If you updated UC Empire in V4, then all stormtroopers became vanilla. There's a reason these mods aren't updated.
 
 ## Guide
 ### Creation Store
 I would personally just avoid the Creation Store. If a mod is on both Creations and NexusMods, then get it from NexusMods. If a mod is only on Creations, then just don't bother. This is because the mods on Creation are usually built for consoles. And consoles have some major differences compared to the PC version. You are begging to break your game by installing mods from there. 
-
-After adding a mod and loading a save, you're gonna be asked if you wanna load a CURRENT or SAVE mod order. Select CURRENT. Never select SAVE. 
-
-Please don't update mods in the list unless you know what you're doing. Especially armor mods and balancing mods. For example, if you updated Ascension in V4, then everything would become a bullet sponge. If you updated UC Empire in V4, then all stormtroopers became vanilla. There's a reason these mods aren't updated.
 
 ### The Tool
 One of the most important tools for every Starfield modlist is called [Starfield Engine Fixes](https://www.nexusmods.com/starfield/mods/10457?tab=files). It has a tool that tells you how many mod indexes are in use. You must enable this as it is currently an optional setting. Everytime you launch your game, it'll tell you how close you are to the cap. When you reach the cap, things break.
